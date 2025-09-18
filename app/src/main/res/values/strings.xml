@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Project</string>
-    <string name="welcome">Welcome</string>
-    <string name="name">Savero</string>
-    <string name="notificationNumber">1</string>
-    <string name="notificationAlert">RedCircle</string>
-    <string name="notificationIcon">Bell</string>
-    <string name="Search">Search anything</string>
-</resources>
